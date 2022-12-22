@@ -1,0 +1,137 @@
+
+.feature__app{
+    display: flex;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-top: 7rem;
+}
+
+.title{
+    padding-top:0;
+
+}
+
+.menu__button{
+    display: none;
+}
+
+.nav__opt{
+    display: none;
+}
+
+.benefits__icon--tablet{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 2rem;
+}
+
+.feature__download{
+    display: flex;
+    padding: 0 4rem;
+    min-height: 500px;
+    
+}
+
+.feature__download--tablet{
+   flex-basis: 70%;
+}
+.benefits__header{
+    display: flex;
+    justify-content: center;
+}
+.benefits__title{
+    padding-top: 3rem;
+    max-width: 200px;
+}
+.download__img{
+    margin: auto;
+}
+
+
+.testimonial__header{
+    margin: 3rem auto;
+    width: 40%;
+}
+
+.testimonial__subheader{
+    padding: 0 4rem;
+}
+
+.team__subheader{
+    margin:0 4rem;
+}
+
+.apps__header{
+    font-size: 1.8rem;
+    text-align: left;
+    width: 70%;
+}
+
+.container__apps{
+    padding: 6rem;
+}
+
+.apps__icon{
+    width: 200px;
+    margin: auto;
+}
+
+.apps__icon--appstore{
+    margin-right: 2px;
+}
+
+.container__contact{
+    columns: 2;
+}
+
+.media__subheader{
+    max-width: 400px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.footer__subheader{
+    margin-left: .5rem;
+}
+
+.container__access--tablet{
+    display: flex;
+    justify-content: center;
+    margin:0 3rem;
+    
+}
+.team__header,
+.basic__header,
+.business__header{
+    margin: 0;
+}
+
+.access__basic,
+.access__business{
+    margin: auto 0;
+}
+
+.access__team{
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.basic__button,
+.team__button,
+.business__button {
+    padding:.5rem 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid #6AB2FF;
+    border-radius: 4px;
+    color: #6AB2FF;
+}
+
+.access__article{
+    max-width: 70%;
+    margin: 1rem auto;
+}

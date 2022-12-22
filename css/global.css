@@ -1,0 +1,24 @@
+html, body{
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container__nav {
+    position: absolute;
+    z-index: 222;
+}
+
+.feature__app{
+    position: relative;
+}
+
+.nav__opt{
+    color: #fff;
+    font-size: 1rem;
+}
+
+.basic__header,
+.team__header,
+.business__header{
+    font-weight: bold;
+}
